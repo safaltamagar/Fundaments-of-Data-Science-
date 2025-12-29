@@ -1,2 +1,4 @@
 # Fundaments-of-Data-Science-
-This is an assignment of FoD.
+These are the assignments of FoD.
+1.Data Visualization
+2.Linear Algebra
